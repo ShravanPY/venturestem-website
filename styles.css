@@ -826,6 +826,7 @@
 .paraThingy {
     margin-left: 400px;
     margin-right: 400px;
+    text-align: justify;
     font-size: 30px;
     background: #da22ff; /* fallback for old browsers */
   background: -webkit-linear-gradient(
@@ -846,6 +847,7 @@
   
 }
 .paraThingyTwo {
+  text-align: justify;
   margin-left: 700px;
   margin-right: 700px;
   font-size: 30px;
@@ -898,7 +900,7 @@ background-size: 100%;
   }
   
   .team__card {
-    margin: 150px;
+    margin: 50px;
     height: 425px;
     width: 300px;
     border-radius: 4px;
