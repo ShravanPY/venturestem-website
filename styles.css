@@ -7,7 +7,7 @@
 }
 
 .navbar {
-  background: #131313;
+  background: #181818;
   height: 80px;
   display: flex;
   justify-content: center;
@@ -704,7 +704,7 @@
 
 /* Footer CSS */
 .footer__container {
-  background-color: #131313;
+  background-color: #181818;
   padding: 5rem 0;
   display: flex;
   flex-direction: column;
@@ -824,8 +824,8 @@
   }
 }
 .paraThingy {
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 400px;
+    margin-right: 400px;
     font-size: 30px;
     background: #da22ff; /* fallback for old browsers */
   background: -webkit-linear-gradient(
@@ -843,6 +843,29 @@
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
+  
+}
+.paraThingyTwo {
+  margin-left: 700px;
+  margin-right: 700px;
+  font-size: 30px;
+  background: #da22ff; /* fallback for old browsers */
+background: -webkit-linear-gradient(
+  to right,
+  #cba2ef,
+  #da22ff
+); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(
+  to right,
+  #cba2ef,
+  #da22ff
+); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background-size: 100%;
+-webkit-background-clip: text;
+-moz-background-clip: text;
+-webkit-text-fill-color: transparent;
+-moz-text-fill-color: transparent;
+
 }
 
 /* Team Section */
@@ -883,7 +906,7 @@
     flex-direction: column;
     justify-content: center;
     color: #fff;
-    background-image: linear-gradient(to right, #404141 0%, #323230 100%);
+    background-color: gray;
     transition: 0.3s ease-in;
   }
   
@@ -954,4 +977,42 @@
       grid-template-columns: 1fr;
     }
   }
+
+
+  .oth__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 90%;
+    text-align: center;
+    padding: 30px;
+  }
+
+.oth__heading {
+  font-size: 100px;
+  margin-bottom: 24px;
+  color: #fff;
+}
+
+.oth__heading span {
+  background: #ee0979; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ff6a00,
+    #ee0979
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ff6a00,
+    #ee0979
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -mo-text-fill-color: transparent;
+}
 
