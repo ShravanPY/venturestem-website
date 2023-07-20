@@ -826,7 +826,6 @@
   }
 }
 .paraThingy {
-  text-align: left;
     margin-left: 150px;
     margin-right: 150px;
     font-size: 30px;
@@ -849,7 +848,6 @@
   
 }
 .paraThingyTwo {
-  text-align: left;
   margin-left: 200px;
   margin-right: 200px;
   font-size: 30px;
