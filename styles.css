@@ -826,8 +826,9 @@
   }
 }
 .paraThingy {
-    margin-left: 400px;
-    margin-right: 400px;
+  text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
     font-size: 30px;
     background: #da22ff; /* fallback for old browsers */
   background: -webkit-linear-gradient(
@@ -848,9 +849,9 @@
   
 }
 .paraThingyTwo {
-  text-align: justify;
-  margin-left: 700px;
-  margin-right: 700px;
+  text-align: center;
+  margin-left: 650px;
+  margin-right: 650px;
   font-size: 30px;
   background: #da22ff; /* fallback for old browsers */
 background: -webkit-linear-gradient(
