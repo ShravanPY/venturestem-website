@@ -827,8 +827,8 @@
 }
 .paraThingy {
   text-align: center;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 150px;
+    margin-right: 150px;
     font-size: 30px;
     background: #da22ff; /* fallback for old browsers */
   background: -webkit-linear-gradient(
@@ -850,8 +850,8 @@
 }
 .paraThingyTwo {
   text-align: center;
-  margin-left: 450px;
-  margin-right: 450px;
+  margin-left: 200px;
+  margin-right: 200px;
   font-size: 30px;
   background: #da22ff; /* fallback for old browsers */
 background: -webkit-linear-gradient(
