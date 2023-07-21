@@ -826,9 +826,10 @@
   }
 }
 .paraThingy {
-    margin-left: 150px;
-    margin-right: 150px;
-    font-size: 30px;
+    width: 90%;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
     background: #da22ff; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
@@ -856,6 +857,7 @@
   .paraThingy p {
     margin-top: 1rem;
     font-size: 1.5rem;
+    width:100%;
   }
 }
 
@@ -868,9 +870,11 @@
 }
 
 .paraThingyTwo {
-  margin-left: 200px;
-  margin-right: 200px;
-  font-size: 30px;
+  width: 90%;
+  margin-top: 1rem;
+  font-size: 2rem;
+  font-weight: 700;
+
   background: #da22ff; /* fallback for old browsers */
 background: -webkit-linear-gradient(
   to right,
@@ -898,6 +902,7 @@ background-size: 100%;
   .paraThingyTwo p {
     margin-top: 1rem;
     font-size: 1.5rem;
+    width:100%;
   }
 }
 
