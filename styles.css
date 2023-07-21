@@ -847,6 +847,26 @@
   -moz-text-fill-color: transparent;
   
 }
+
+/* Mobile Responsive */
+@media screen and (max-width: 1100px) {
+
+
+
+  .paraThingy__content p {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+
+  .paraThingy__content p {
+    margin-top: 2rem;
+  }
+}
+
 .paraThingyTwo {
   margin-left: 200px;
   margin-right: 200px;
@@ -868,6 +888,25 @@ background-size: 100%;
 -webkit-text-fill-color: transparent;
 -moz-text-fill-color: transparent;
 
+}
+
+/* Mobile Responsive */
+@media screen and (max-width: 1100px) {
+
+
+
+  .paraThingyTwo__content p {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+
+  .paraThingyTwo__content p {
+    margin-top: 2rem;
+  }
 }
 
 /* Team Section */
