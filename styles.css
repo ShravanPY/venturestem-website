@@ -856,6 +856,7 @@
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
+  text-align: center;
   
 }
 
@@ -901,6 +902,7 @@ background-size: 100%;
 -moz-background-clip: text;
 -webkit-text-fill-color: transparent;
 -moz-text-fill-color: transparent;
+text-align: center;
 
 }
 
@@ -1076,6 +1078,7 @@ background-size: 100%;
 .abt{
   background-color: #131313;
   padding: 10rem 0;
+  background-image: url("hand-drawn-scientific-formulas-chalkboard_23-2148495052.jpg_size=626&ext=jpg&ga=GA1.2.16685453.jpg");
 }
 
 .abt__container {
@@ -1276,6 +1279,7 @@ background-size: 100%;
 .ser{
   background-color: #131313;
   padding: 10rem 0;
+  background-image: url("hand-drawn-scientific-formulas-chalkboard_23-2148495052.jpg_size=626&ext=jpg&ga=GA1.2.16685453.jpg");
 }
 
 .ser__container {
