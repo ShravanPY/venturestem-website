@@ -7,7 +7,7 @@
 }
 
 .navbar {
-  background: #bbb6b6;
+  background: #807e7ecb;
   height: 80px;
   display: flex;
   justify-content: center;
@@ -394,7 +394,7 @@
 
 /* About Section */
 .main {
-  background-color: #ffffff;
+  background-color: #eaeaea;
   padding: 10rem 0;
 }
 
@@ -964,7 +964,7 @@ text-align: center;
     flex-direction: column;
     justify-content: center;
     color: #fff;
-    background-color: gray;
+    background-color: rgba(128, 128, 128, 0.775);
     transition: 0.3s ease-in;
   }
   
