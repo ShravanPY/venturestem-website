@@ -122,9 +122,8 @@
   }
 
   .navbar__menu.active {
-    background: #131313;
+    background: #dddcdc;
     top: 100%;
-    opacity: 50%;
     transition: all 0.5s ease;
     z-index: 99;
     height: 60vh;
