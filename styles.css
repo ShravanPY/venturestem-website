@@ -172,6 +172,7 @@
     top: 20%;
     right: 5%;
     transform: translate(5%, 20%);
+    background-color: gray;
   }
 
   .navbar__toggle .bar {
