@@ -122,9 +122,9 @@
   }
 
   .navbar__menu.active {
-    background: #bebebe;
+    background: #131313;
     top: 100%;
-    opacity: 1;
+    opacity: 50%;
     transition: all 0.5s ease;
     z-index: 99;
     height: 60vh;
@@ -172,7 +172,6 @@
     top: 20%;
     right: 5%;
     transform: translate(5%, 20%);
-
   }
 
   .navbar__toggle .bar {
